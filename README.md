@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
----Finished---
+<h2>Table of Contents</h2>
 
-Step 1 - Setting Up Your API Connection
+<b>---Finished---</b>
 
-<b>Step 2 - Using the API</b>
-
+Step 1 - Setting Up Your API Connection<br>
+Step 2 - Using the API<br>
 Step 3 - Understanding the Data
 Step 4 - Visualizing Music
 Step 5 - Creating a Physical Model
