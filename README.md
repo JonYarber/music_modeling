@@ -3,7 +3,7 @@
 ## Table of Contents
 
 ---Finished---
-Step 1 - Setting Up Your API Connection
+Step 1 - Setting Up Your API Connection\n
 Step 2 - Using the API 
 Step 3 - Understanding the Data
 Step 4 - Visualizing Music
