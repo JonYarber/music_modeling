@@ -6,7 +6,7 @@
 
 Step 1 - Setting Up Your API Connection
 
-Step 2 - Using the API 
+<b>Step 2 - Using the API</b>
 
 Step 3 - Understanding the Data
 Step 4 - Visualizing Music
