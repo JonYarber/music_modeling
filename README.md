@@ -2,11 +2,11 @@
 
 <h2>Table of Contents</h2>
 <b>---Finished---</b><br>
-Step 1 - Setting Up Your API Connection<br>
-Step 2 - Using the API<br>
-Step 3 - Understanding the Data<br>
-Step 4 - Creating a Music Model<br>
-Step 5 - Creating a 3D Print <i>(suspended)</i><br>
+I. Setting Up Your API Connection<br>
+II. Using the API<br>
+III. <a href = 'https://nbviewer.org/github/JonYarber/music_modeling/blob/main/4.%20Creating%20the%20Music%20Model.ipynb'>Understanding the Data</a><br>
+IV. Creating the Music Model<br>
+V. - Creating a 3D Print <br>
 <br>
 <b>---Working---</b><br>
 Step 6 - Creating a Predictive Model<br>
