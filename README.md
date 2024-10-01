@@ -5,10 +5,9 @@
 
 ## Summary
 
-This project provides detailed instructions on how to get set up to use
-the Spotify API, how to utilize the API in Python, and how to find
-various musical attributes for which analyses can be performed,
-visualizations made, or models created.
+This project offers comprehensive instructions for setting up the
+Spotify API, utilizing it in Python, and identifying various musical
+attributes for analysis, visualization, and model creation.
 
 ## Table of Contents
 
@@ -93,27 +92,25 @@ development, I hope to share them soon.
 
 ## <a name="Notebooks"></a>Notebooks
 
-#### <a name="SettingUptheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/1.%20Setting%20Up%20the%20API%20Connection.ipynb'>1. Setting Up the API Connection</a>
+#### <a name="SettingUptheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/1)%20Setting%20Up%20the%20API%20Connection.ipynb'>1. Setting Up the API Connection</a>
 
-In this notebook, I show you how to set up client keys with Spotify and
-connect to the API in Python using the <code>Spotipy</code> package.
+Setting up keys with Spotify and connecting to the API in Python using
+the *Spotipy* library.
 
-#### <a name="UsingtheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/2.%20Using%20the%20Spotify%20API.ipynb'>2. Using the Spotify API</a>
+#### <a name="UsingtheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/2)%20Using%20the%20Spotify%20API.ipynb'>2. Using the Spotify API</a>
 
-In this notebook, I show how to use the <code>Spotipy</code> to navigate
-the Spotify API.
+Using the *Spotipy* library and navigating the Spotify API.
 
-#### <a name="Understanding the Data"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/3.%20Understanding%20the%20Data.ipynb'>3. Understanding the Data</a>
+#### <a name="Understanding the Data"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/3.%20Understanding%20the%20Data.ipynb'>3. Understanding the Data</a>
 
-This notebook reviews the audio features and attributes available in the
-API and how to retrieve them.
+A review of the audio features and attributes available in the API and
+how to retrieve them.
 
-#### <a name="Create3DModel"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/4.%20Creating%20a%203D%20Music%20Model.ipynb'>4. Creating a 3D Music Model</a>
+#### <a name="Create3DModel"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/4.%20Creating%20a%203D%20Music%20Model.ipynb'>4. Creating a 3D Music Model</a>
 
-In this notebook, I create 3D rendering using a song’s timbre from the
-audio analysis.
+Creating a 3D rendering using a song’s timbre from the audio analysis.
 
-#### <a name="Create3DPrint"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/5.%20Creating%20a%203D%20Print.ipynb'>5. Creating a 3D Print</a>
+#### <a name="Create3DPrint"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/5.%20Creating%20a%203D%20Print.ipynb'>5. Creating a 3D Print</a>
 
 The conclusion for 3D portion of the project. Putting it all together
 and creating a 3D print with the data.
