@@ -1,7 +1,7 @@
 
 <!--Set environment and load needed functions-->
 
-# Creating Models with Music Data
+# <a name='top'></a> Creating Models with Music Data
 
 ## Summary
 
@@ -26,13 +26,13 @@ attributes for analysis, visualization, and model creation.
 <a href='#UsingtheAPI'>2. Using the Spotify API</a>
 </li>
 <li>
-<a href='#UnderstandingtheData'>3. Understanding the Data</a>
+<a href='#DataInsights'>3. Spotify Audio Data Insights</a>
 </li>
 <li>
-<a href='#Create3DModel'>4. Creating a 3D Music Model</a>
+<a href='#Create3DModel'>4. Creating a 3D Audio Model</a>
 </li>
 <li>
-<a href='#Create3DPrint'>5. Creating a 3D Print</a>
+<a href='#Print3DModel'>5. Printing the 3D Audio Model</a>
 </li>
 <li>
 <a href='#CreatePredictiveModel'>6. Creating a Predictive Model</a>
@@ -81,43 +81,46 @@ model I created in Python. Around the time I realized this, my brother
 had just gotten married, and his birthday was approaching. I set it is a
 goal gift him my first 3D print of the song to which he and his wife had
 their first dance: “Tennessee Whiskey” by Chris Stapleton. The notebooks
-<a href='#Create3DModel'>Creating a 3D Model</a> and
-<a href='#Create3DPrint'>Creating a 3D Print</a> provide detail on how
-this was accomplished.
+<a href='#Create3DModel'>Creating a 3D Audio Model</a> and
+<a href='#Print3DModel'>Printing the 3D Audio Model</a> provide detail
+on how this was accomplished.
 
 With that project completed, I had a strong code foundation and enough
 domain knowledge to undertake the larger, more ambitious project — the
-predictive model. While the code and results for this model are still in
-development, I hope to share them soon.
+predictive model. The code and results for this model are still in
+development, but I hope to share them soon.
 
 ## <a name="Notebooks"></a>Notebooks
 
-#### <a name="SettingUptheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/1)%20Setting%20Up%20the%20API%20Connection.ipynb'>1. Setting Up the API Connection</a>
+#### <a name="SettingUptheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/01SettingUptheAPIConnection.ipynb'> Setting Up the API Connection</a>
 
-Setting up keys with Spotify and connecting to the API in Python using
-the *Spotipy* library.
+Setting up client ID and user keys with Spotify and connecting to the
+API in Python using the *Spotipy* library.
 
-#### <a name="UsingtheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/2)%20Using%20the%20Spotify%20API.ipynb'>2. Using the Spotify API</a>
+#### <a name="UsingtheAPI"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/02UsingtheSpotifyAPI.ipynb'>Using the Spotify API</a>
 
-Using the *Spotipy* library and navigating the Spotify API.
+Using the *Spotipy* library in Python to navigate the Spotify API.
 
-#### <a name="Understanding the Data"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/3.%20Understanding%20the%20Data.ipynb'>3. Understanding the Data</a>
+#### <a name="DataInsights"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/03SpotifyAudioDataInsights.ipynb'> Spotify Audio Data Insights</a>
 
-A review of the audio features and attributes available in the API and
-how to retrieve them.
+A review of the audio features and attributes available in the Spotify
+API and how to retrieve them.
 
-#### <a name="Create3DModel"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/4.%20Creating%20a%203D%20Music%20Model.ipynb'>4. Creating a 3D Music Model</a>
+#### <a name="Create3DModel"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/04Creatinga3DAudioModel.ipynb'>Creating a 3D Audio Model</a>
 
-Creating a 3D rendering using a song’s timbre from the audio analysis.
+Creating a 3D rendering using a song’s timbre from the audio analysis
+data.
 
-#### <a name="Create3DPrint"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/5.%20Creating%20a%203D%20Print.ipynb'>5. Creating a 3D Print</a>
+#### <a name="Print3DModel"></a><a href='https://nbviewer.org/github/JonYarber/music_modeling/blob/main/python/05Printingthe3DAudioModel.ipynb'> Printing the 3D Audio Model</a>
 
 The conclusion for 3D portion of the project. Putting it all together
 and creating a 3D print with the data.
 
-#### <a name="CreatePredictiveModel"></a>6. Creating a Predictive Model
+#### <a name="CreatePredictiveModel"></a>Creating a Predictive Model
 
 **!!Coming Soon!!**
 
 This notebook outlines how I built the predictive model for finding
 songs similar to a given song.
+
+<a href='#top'>Back to top</a>
