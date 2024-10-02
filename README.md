@@ -1,7 +1,9 @@
 
 <!--Set environment and load needed functions-->
 
-# <a name='top'></a> Creating Models with Music Data
+<a name='top'></a>
+
+# Creating Models with Music Data
 
 ## Summary
 
@@ -42,9 +44,8 @@ attributes for analysis, visualization, and model creation.
 
 ## <a name="Background"></a>Background
 
-This project represents the culmination of several ambitions, distilled
-into a comprehensive instruction manual detailing my journey through
-these endeavors.
+This project culminates my endeavors with the Spotify API data,
+distilled into a comprehensive instruction manual and guide.
 
 My initial experience with the Spotify API occurred during a summer
 project in my Master’s program at Mizzou, where we analyzed Spotify’s
@@ -70,10 +71,11 @@ songs similar to those I love. Years later, I finally found some free
 time to revisit this project. After refreshing my knowledge and
 conducting some new research, I discovered three key insights:
 
-1.  The audio analysis data provides me exactly with what I need to
-    create a convolutional neural network (CNN).
-2.  The data makes for some very intriguing and stunning visuals.
-3.  I may be able to print any 3D renderings on a 3D printer.
+1.  The audio analysis data is perfect for building a deep learning
+    model.
+2.  The data makes for some intriguing and stunning visuals.
+3.  I might be able to print any said visuals or renderings onto my 3D
+    printer at home.
 
 The third point excited me the most. Having access to a quality 3D
 printer at home meant I only needed to generate an STL file from any 3D
