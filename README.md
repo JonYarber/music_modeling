@@ -118,7 +118,7 @@ data.
 The conclusion for 3D portion of the project. Putting it all together
 and creating a 3D print with the data.
 
-#### <a name="CreatePredictiveModel"></a>Coming Soon! - Creating a Predictive Model
+#### <a name="CreatePredictiveModel"></a>Creating a Predictive Model - Coming Soon!!
 
 This notebook outlines how I built the predictive model for finding
 songs similar to a given song.
