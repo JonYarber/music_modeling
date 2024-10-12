@@ -82,8 +82,8 @@ printer at home meant I only needed to generate an STL file from any 3D
 model I created in Python. Around the time I realized this, my brother
 had just gotten married, and his birthday was approaching. I set it is a
 goal gift him my first 3D print of the song to which he and his wife had
-their first dance: “Tennessee Whiskey” by Chris Stapleton. The notebooks
-<a href='#Create3DModel'>Creating a 3D Audio Model</a> and
+their first dance: <i>Tennessee Whiskey</i> by Chris Stapleton. The
+notebooks <a href='#Create3DModel'>Creating a 3D Audio Model</a> and
 <a href='#Print3DModel'>Printing the 3D Audio Model</a> provide detail
 on how this was accomplished.
 
@@ -118,9 +118,7 @@ data.
 The conclusion for 3D portion of the project. Putting it all together
 and creating a 3D print with the data.
 
-#### <a name="CreatePredictiveModel"></a>Creating a Predictive Model
-
-**!!Coming Soon!!**
+#### <a name="CreatePredictiveModel"></a>Coming Soon! - Creating a Predictive Model
 
 This notebook outlines how I built the predictive model for finding
 songs similar to a given song.
