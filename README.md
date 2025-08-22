@@ -1,9 +1,13 @@
 
-<!--Set environment and load needed functions-->
-
 <a name='top'></a>
 
 # Creating Models with Music Data
+
+> ⚠️ **Important Note**  
+> Spotify has shut down access to their audio analysis endpoint.  
+> The methods in this repo will no longer work to collect audio feature data.  
+> This project should be viewed as an educational resource and a fun exploration,  
+> not a reproducible workflow.
 
 ## Summary
 
