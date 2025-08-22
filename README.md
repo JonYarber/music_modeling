@@ -122,7 +122,9 @@ data.
 The conclusion for 3D portion of the project. Putting it all together
 and creating a 3D print with the data.
 
-#### <a name="CreatePredictiveModel"></a>Creating a Predictive Model - Coming Soon!!
+#### <a name="CreatePredictiveModel"></a><a href = "https://https://github.com/JonYarber/music_modeling/blob/main/python/06BuildingthePredictiveModel.ipynb">Building the Predictive Model</a> 
+
+**In Progress**
 
 This notebook outlines how I built the predictive model for finding
 songs similar to a given song.
